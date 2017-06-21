@@ -1,0 +1,26 @@
+Decorator Class:
+
+Location: /charts/Decorator.js
+//charttype is like chartconfig
+
+1. ChartDecorator extends Charttype
+we try to apply background color
+
+//Five Class that extends ChartDecorator
+1. BarChartDecorator extends ChartDecorator
+we try to apply background color of Bar
+
+1. LineChartDecorator extends ChartDecorator
+we try to apply background color of Line
+
+1. PieChartDecorator extends ChartDecorator
+we try to apply background color of Pie
+
+1. PivotChartDecorator extends ChartDecorator
+we try to apply background color of pivot
+
+1. StackChartDecorator extends ChartDecorator
+we try to apply background color of stack
+
+
+
