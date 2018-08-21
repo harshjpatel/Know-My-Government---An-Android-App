@@ -2,7 +2,7 @@ README FILE
 
 The process will go as follows.
 
-1.on startup, the device will show the data of current Government positions and  data. It should show the any Political Party except Unknown as he is not in any political party.
+1.on startup, the device will ask permisiion fr, device location and show the data of current local and natioinal Government positions and  data. It should show the any Political Party except Unknown as he is not in any political party.
 Ex. Republic, Democratic, Neopartisan etc.
 2. The search button will fetch data of any zipcode, cityname or maybe more.
 3. Clicking on ? will go to AboutActivity, Onpress on bak button will go to MainActivity.
