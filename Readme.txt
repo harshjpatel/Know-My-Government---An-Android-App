@@ -1,5 +1,8 @@
 README FILE
 
+Google Application link in Playstore: https://play.google.com/store/apps/details?id=com.assignment5.harsh.p5
+Please download, use and rating if you have a little bit time. 
+
 The process will go as follows.
 
 1.on startup, the device will ask permisiion fr, device location and show the data of current local and natioinal Government positions and  data. It should show the any Political Party except Unknown as he is not in any political party.
